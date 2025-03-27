@@ -35,18 +35,6 @@ Hello World! I’m a passionate **Cybersecurity** student, dedicated to explorin
 
 ---
 
-## 🎯 Objetivos (Goals)
-
-🇧🇷
-- Aprimorar habilidades em análise e mitigação de vulnerabilidades.
-- Contribuir para projetos de código aberto relacionados à segurança.
-- Preparar-me para certificações reconhecidas, como CEH, OSCP e CISSP entre outras.
-
-🇺🇸
-- Enhance skills in vulnerability analysis and mitigation.
-- Contribute to open-source projects related to security.
-- Prepare for recognized certifications, such as CEH, OSCP, and CISSP and more.
-
 ## 📬 Contato (Contact)
 
 🇧🇷
