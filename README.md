@@ -1,6 +1,6 @@
 # Enzo Marins
 
-I'm a cybersecurity student @ FIAP in São Paulo. My work and learning are centered on understanding how systems fail — and how to build, monitor, and defend them with purpose and precision.
+I'm a cybersecurity graduate @ FIAP and threat detection & response analyst @ Accenture. My work and learning are centered on understanding how systems fail — and how to build, monitor, and defend them with purpose and precision.
 
 I believe that cybersecurity is about developing a clear way of thinking: identifying patterns, asking the right questions, and staying calm when systems behave unexpectedly.
 
