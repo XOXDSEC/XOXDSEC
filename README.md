@@ -1,6 +1,6 @@
 # Enzo Marins
 
-I'm a cybersecurity analyst working in MDR. My work and learning are centered on understanding how systems fail — and how to build, monitor, and defend them with purpose and precision.
+I'm a junior cybersecurity analyst working in MDR. My work and learning are centered on understanding how systems fail — and how to build, monitor, and defend them with purpose and precision.
 
 ---
 
