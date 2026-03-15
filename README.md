@@ -1,12 +1,10 @@
 # Enzo Marins
 
-I'm a cybersecurity graduate @ FIAP and threat detection & response analyst @ Accenture. My work and learning are centered on understanding how systems fail — and how to build, monitor, and defend them with purpose and precision.
-
-I believe that cybersecurity is about developing a clear way of thinking: identifying patterns, asking the right questions, and staying calm when systems behave unexpectedly.
+I'm a cybersecurity analyst working in MDR. My work and learning are centered on understanding how systems fail — and how to build, monitor, and defend them with purpose and precision.
 
 ---
 
-## Areas I’m Growing In
+## Areas I’m Interested In
 
 - **Vulnerability Research**  
   Identifying weaknesses in real-world environments, writing proofs of concept, and understanding the root cause behind each issue.
@@ -32,11 +30,3 @@ I work on personal labs, break down problems step by step, and write about what 
 I also value clarity in communication. Whether it's a technical report, a blog post, or a conversation with a teammate, I aim to explain what I see and why it matters.
 
 ---
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/enzo-marins-107b2a249/)  
-- Email: enzoxoxd@gmail.com  
-- Blog: [https://xoxdsec.github.io](https://xoxdsec.github.io)
-
-Thanks for visiting. If you're learning too, or working on something in this space, I’d love to hear from you.
