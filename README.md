@@ -25,8 +25,5 @@ I'm a cybersecurity analyst working in MDR. My work and learning are centered on
 
 ## My Approach
 
-I work on personal labs, break down problems step by step, and write about what I’m learning—honestly. I’m building a strong foundation to support a career in the area I'm passionate about.
-
+I work on personal labs, break down problems step by step, and write about what I’m learning.
 I also value clarity in communication. Whether it's a technical report, a blog post, or a conversation with a teammate, I aim to explain what I see and why it matters.
-
----
